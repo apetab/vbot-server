@@ -1,0 +1,19 @@
+{
+    "name": "vbot/web-server",
+    "authors": [
+        {
+            "name": "zhangsir",
+            "email": "fei@zhangsir.me"
+        }
+    ],
+    "require": {
+        "hanson/vbot": "^2.0",
+        "walkor/Workerman": "^3.5",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vbot\\WebServer\\": "src/"
+        }
+    }
+}
