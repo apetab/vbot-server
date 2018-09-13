@@ -1,11 +1,12 @@
 
 安装
 -------------
-`composer require apetab\vbot-server`
+`composer require apetab/vbot-server:v1.0.0-beta`
 
 
 使用
 ------
+文件名: run.php
 ```
 <?php
 
@@ -89,6 +90,12 @@ $vbot->messageHandler->setHandler(function ($message) {
 
 $vbot->server->serve();
 ```
+
+运行
+-------
+
+`php run.php`
+
 
 WEB二维码登陆
 --------

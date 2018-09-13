@@ -1,5 +1,6 @@
 {
     "name": "apetab/vbot-server",
+    "description": "vbot web服务, 支持windows/linux环境，可异步推送消息，网页二维码登陆",
     "authors": [
         {
             "name": "zhangsir",
