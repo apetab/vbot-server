@@ -1,7 +1,7 @@
 
 安装
 -------------
-`composer require apetab\webserver`
+`composer require apetab\vbot-server`
 
 
 使用
